@@ -5,5 +5,5 @@
    border: 1px solid red;
    color: white;
    background-color: red;
-   font-family: serif;">Go to site</a>
+   font-family: serif;">Будь ласка нажми на цю кнопку😟</a>
 </html>
